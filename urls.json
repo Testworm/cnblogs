@@ -1,0 +1,7 @@
+{
+"sites": [
+{ "name":"博客园" , "url":"http://www.cnblogs.com/" },
+{ "name":"CSDN" , "url":"https://blog.csdn.net/" },
+{ "name":"伯乐在线" , "url":"http://web.jobbole.com/category/basic-tech/" }
+]
+}
